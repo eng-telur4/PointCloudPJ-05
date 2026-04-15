@@ -104,5 +104,4 @@ InitTestScene*.unity*
 frame_*
 PointDataLogs
 Assets/StreamingAssets
-*.meta
 .vscode
