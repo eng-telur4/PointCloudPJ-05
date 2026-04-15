@@ -101,7 +101,8 @@ InitTestScene*.unity*
 #######
 # ADD #
 #######
-frame_*
-PointDataLogs
-Assets/StreamingAssets
+*.bin
+*.bin.meta
+PointDataLogs/*
+Assets/StreamingAssets/*
 .vscode
